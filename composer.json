@@ -3,6 +3,7 @@
     "description": "This library implements the Extract-Transform-Load pattern asynchronously in PHP with the help of iterators and generators",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Kiboko SAS",
@@ -14,12 +15,10 @@
         }
     ],
     "require": {
-        "php": "^7.2"
-    },
-    "autoload": {
-        "psr-4": {
-            "Kiboko\\Component\\ETL\\Contracts\\": ""
-        }
+        "php": "^8.0",
+        "php-etl/configurator-contracts": "0.1.*",
+        "php-etl/pipeline-contracts": "0.1.*",
+        "php-etl/bucket-contracts": "0.1.*"
     },
     "extra": {
         "branch-alias": {
