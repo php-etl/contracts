@@ -121,12 +121,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-etl/configurator-contracts.git",
-                "reference": "2f5d50993e81b23e3ae138cc2fc51aad6b145c97"
+                "reference": "bf50c5ad1344932b60f320c7c56effc604e0f537"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-etl/configurator-contracts/zipball/2f5d50993e81b23e3ae138cc2fc51aad6b145c97",
-                "reference": "2f5d50993e81b23e3ae138cc2fc51aad6b145c97",
+                "url": "https://api.github.com/repos/php-etl/configurator-contracts/zipball/bf50c5ad1344932b60f320c7c56effc604e0f537",
+                "reference": "bf50c5ad1344932b60f320c7c56effc604e0f537",
                 "shasum": ""
             },
             "require": {
@@ -165,7 +165,7 @@
                 "issues": "https://github.com/php-etl/configurator-contracts/issues",
                 "source": "https://github.com/php-etl/configurator-contracts/tree/master"
             },
-            "time": "2021-01-19T10:23:49+00:00"
+            "time": "2021-01-27T20:36:36+00:00"
         },
         {
             "name": "php-etl/pipeline-contracts",
